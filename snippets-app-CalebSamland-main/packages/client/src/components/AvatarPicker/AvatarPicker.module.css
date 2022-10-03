@@ -1,0 +1,15 @@
+.avatar {
+    width: 70px;
+    margin: 5px;
+    padding: 5px;
+}
+
+.selectedAvatar {
+    outline: 2px solid goldenrod;
+    border-radius: 3px;
+}
+
+.avatarOptions {
+
+}
+
